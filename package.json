@@ -1,0 +1,11 @@
+{
+  "name": "agile-backend",
+  "version": "1.0.0",
+  "description": "Vehicle Spare centre project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
